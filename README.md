@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Tiemkuoth
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning web development and cyber security...
-- 💞️ I’m looking to collaborate on problem solving...
-- 📫 How to reach me get me on telegram and WhatsApp...
-- 😄 Pronouns: Theirs...
-- ⚡ Fun fact: Aiming higher...
+Hi, I’m @Tiemkuoth
+
+I’m interested in coding and technology.
+
+Currently learning Web Development and Cybersecurity.
+
+Looking to collaborate on problem-solving projects and innovative ideas.
+
+Pronouns: Theirs
+
+Fun fact: Always aiming higher.
 
 <!---
-Tiemkuoth/Tiemkuoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Tiemkuoth/Tiemkuoth is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+You can click the Preview link to see your changes.
 --->
